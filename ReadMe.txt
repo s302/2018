@@ -9,7 +9,8 @@
 for remote
 git remote add origin git@github.com:s302/2018.git
 You will use upstream to fetch from the original repo (in order to keep your local copy in sync with the project you want to contribute to).
-
+11
+---------------------------
 You will use origin to pull and push since you can contribute to your own repo.
 
 You will contribute back to the upstream repo by making a pull request.

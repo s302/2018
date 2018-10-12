@@ -15,7 +15,7 @@ You will use origin to pull and push since you can contribute to your own repo.
 
 You will contribute back to the upstream repo by making a pull request.
 
-
+add by dev
 
 fatal: unable to access 'https://github.com/s302/2018/': Unknown SSL protocol error in connection to github.com:443
 

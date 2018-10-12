@@ -13,3 +13,10 @@ You will use upstream to fetch from the original repo (in order to keep your loc
 You will use origin to pull and push since you can contribute to your own repo.
 
 You will contribute back to the upstream repo by making a pull request.
+
+
+
+fatal: unable to access 'https://github.com/s302/2018/': Unknown SSL protocol error in connection to github.com:443
+
+
+git clone git@github.com:s302/2018.git
